@@ -257,8 +257,9 @@ ROMs:
 Motor Board (deluxe cabinet)
 -------------
 
-label: ?
-Z80 (unknown speed)
+label     : 837-7005
+Z80 clock : 4.000MHz
+CXD1095   : SONY Port Expander 
 ROMs:
 - epr-12505.8
 
